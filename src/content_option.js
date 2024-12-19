@@ -110,7 +110,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/Agourd06",
-    linkedin: "hhttps://www.linkedin.com/in/oualid-agourd-1a4898240/",
+    linkedin: "https://www.linkedin.com/in/oualid-agourd-1a4898240/",
 };
 export {
     meta,
