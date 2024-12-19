@@ -22,7 +22,7 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am a junior-level developer with a strong foundation in JavaScript, React, Angular, and Node.js. I am currently studying as a full-stack JavaScript developer at Youcode, where I have honed my technical skills and developed a passion for building both front-end and back-end applications. I am focusing on sharpening my problem-solving skills and creating intuitive user experiences. I am excited to continue learning and growing in the tech industry, expanding my knowledge as I begin my professional journey."
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -42,11 +42,11 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "NestJs",
+        value: 80,
     },
     {
-        name: "Djano",
+        name: "ExpressJs",
         value: 85,
     },
     {
@@ -55,26 +55,31 @@ const skills = [{
     },
     {
         name: "React",
-        value: 60,
+        value: 80,
     },
     {
-        name: "Jquery",
+        name: "PHP",
+        value: 85,
+    },
+    {
+        name: "Laravel",
         value: 85,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+    title: "UI & UX Design",
+    description: "Designing user interfaces and crafting user experiences that ensure intuitive, visually appealing, and user-centric digital products.",
+},
+{
+    title: "Mobile Apps",
+    description: "Developing responsive and performant mobile applications using modern frameworks and best practices to provide seamless user experiences.",
+},
+{
+    title: "Back End Developer",
+    description: "Building and optimizing server-side logic, APIs, and integrations to create robust, scalable, and efficient backend systems.",
+},
+
 ];
 
 const dataportfolio = [{
@@ -93,9 +98,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "oualidagourd@gmail.com",
+    YOUR_FONE: "(+212)655996022",
+    description: "I hope you can contact me directly through my email or phone number I will active the feature of Contact latter Thank You ❤",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
